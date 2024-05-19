@@ -29,7 +29,7 @@ shiny.wgbs.loadDataset <- function (configFile) {
   multiqcColumnsOfInterest <- c(
     "Sample",
     "FastQC_mqc-generalstats-fastqc-percent_duplicates",
-    "Picard_mqc-generalstats-picard-PCT_PF_READS_ALIGNED",
+    "QualiMap_mqc-generalstats-qualimap-percentage_aligned",
     "QualiMap_mqc-generalstats-qualimap-median_coverage"
   )
 
