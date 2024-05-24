@@ -22,3 +22,11 @@ dependencies:
   - ruamel.yaml
   - samtools >=1.15
   - snakemake-minimal >=5.8
+  - cython
+  - pyyaml >=6.0
+  - pkg-config
+  - r-shiny
+  - r-data.table
+  - r-shinydashboard
+  - r-htmlwidgets
+  - r-dt  
