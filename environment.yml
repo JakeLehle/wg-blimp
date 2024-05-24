@@ -1,4 +1,4 @@
-name: wg-blimp-testing
+name: wg-blimp
 channels:
   - conda-forge
   - bioconda
